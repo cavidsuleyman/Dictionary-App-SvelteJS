@@ -14,7 +14,7 @@ Hello, welcome to this lesson. Today I create with html, css and Svelte.js file 
 > **STEP-2:**  enter the `Dictionary-App-SvelteJS` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the files in the main folder "npm run dev" <br/>
-> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Arrow-Game/archive/refs/heads/master.zip) click <br/>
+> **STEP-5:**  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Dictionary-App-SvelteJS/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
